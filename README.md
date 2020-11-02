@@ -2,7 +2,8 @@
 
 Customer spending and satisfaction survey in starbucks
 Refer to the jupyter notebook for detailed analysis
-![Notebook](customer-behavior.ipynb)
+
+[Notebook](customer-behavior.ipynb)
 
 <a id="aaa"></a>
 # Components of the customers
